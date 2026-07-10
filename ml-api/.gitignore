@@ -1,0 +1,34 @@
+# React
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Python
+venv/
+tfenv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/
+ml-model/dataset/
+
+# Virtual environments
+ml-api/venv/
+ml-api/tfenv/
+ml-model/venv/
+
+# Uploads
+ml-api/uploads/
+
+# Environment
+.env
+ml-api/.env
+
+# VS Code
+.vscode/
+
+Thumbs.db
+.DS_Store

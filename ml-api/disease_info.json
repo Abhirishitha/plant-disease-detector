@@ -1,0 +1,22 @@
+{
+  "Tomato_Bacterial_spot": {
+    "description": "Bacterial infection affecting tomato leaves.",
+    "symptoms": [
+      "Brown spots",
+      "Yellow halo"
+    ],
+    "remedy": [
+      "Use copper fungicide",
+      "Remove infected leaves",
+      "Avoid overhead irrigation"
+    ]
+  },
+
+  "Tomato_healthy": {
+    "description": "Healthy Tomato Plant",
+    "symptoms": [],
+    "remedy": [
+      "No treatment required"
+    ]
+  }
+}
