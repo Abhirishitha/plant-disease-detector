@@ -171,12 +171,11 @@ Output
 
 ## 📸 Screenshots
 
-<img width="1336" height="888" alt="image" src="https://github.com/user-attachments/assets/4f4e198c-1df5-42a9-a709-8e3233cd220a" />
 <img width="1917" height="880" alt="Screenshot 2026-07-20 090906" src="https://github.com/user-attachments/assets/6a110017-4a97-465e-82e5-084e30328e4e" />
 <img width="1917" height="872" alt="Screenshot 2026-07-20 090927" src="https://github.com/user-attachments/assets/73eb879f-46d9-4821-b89c-0704741b7e5e" />
 <img width="1917" height="857" alt="Screenshot 2026-07-20 090943" src="https://github.com/user-attachments/assets/b6d54d03-8cd9-46fc-8961-db8e3098c6c2" />
 <img width="1910" height="867" alt="Screenshot 2026-07-20 091041" src="https://github.com/user-attachments/assets/4f49f91c-5598-488d-9d39-8fda9b306ba2" />
-
+<img width="1336" height="888" alt="image" src="https://github.com/user-attachments/assets/4f4e198c-1df5-42a9-a709-8e3233cd220a" />
 
 ## Future Improvements
 
